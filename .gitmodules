@@ -1,0 +1,6 @@
+[submodule "edge_node"]
+	path = edge_node
+	url = git@github.com:UniCowApus/camera_ws.git
+[submodule "fusion_processing_node"]
+	path = fusion_processing_node
+	url = git@github.com:UniCowApus/sterero_fusion_ros.git
